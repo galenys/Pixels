@@ -1,6 +1,6 @@
 function setup() {
   // var dim = Math.min(window.innerWidth, window.innerHeight);
-  createCanvas(window.innerWidth, window.innerHeight);
+  createCanvas(windowWidth, windowHeight);
   background(255);
 
   cursor(CROSS);
